@@ -34,13 +34,14 @@ img{
 	padding: 10px; /*espacio alrededor texto*/
 	background-color: #B4E4AA; /*color botón*/
 	color: #000000; /*color texto*/
+	border: 5px solid color#35494E;
 	text-decoration: none; /*decoración texto*/ /*capitalización texto*/
 	border-radius: 5px; /*bordes redondos*/
 	transition: 0.3s;
 }
 .btn:hover{
 	transform: scale(1.2);
-	color: #ffffff;
+	color: #ffffff ;
 }
 .espacio-derecha{
 	margin-right: 1em;
