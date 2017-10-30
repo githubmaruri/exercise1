@@ -25,7 +25,22 @@ img{
 	font-size: 2em;
 }
 .verde{
-	color: #62A5A1;
+	color: #B8E3B7; 
+}
+.azul{
+	color: #487CC5;
+}
+.btn{
+	padding: 10px; /*espacio alrededor texto*/
+	background-color: #B4E4AA; /*color botón*/
+	color: #000000; /*color texto*/
+	text-decoration: none; /*decoración texto*/ /*capitalización texto*/
+	border-radius: 5px; /*bordes redondos*/
+	transition: 0.3s;
+}
+.btn:hover{
+	transform: scale(1.2);
+	color: #ffffff;
 }
 .espacio-derecha{
 	margin-right: 1em;
